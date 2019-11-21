@@ -5,7 +5,7 @@
 <?import javafx.scene.text.Font?>
 
 
-<DialogPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.MainController">
+<DialogPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lsb.MainController">
    <header>
       <Label alignment="CENTER" text="LSB Steganography">
          <font>

@@ -1,4 +1,4 @@
-package sample;
+package lsb;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
